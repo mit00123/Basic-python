@@ -1,4 +1,4 @@
-## define as __init__()-------no need for calling
+
 class p:
     def __init__(self,name,age):
         self .name=name
