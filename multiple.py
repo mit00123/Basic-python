@@ -7,8 +7,6 @@ class b(a):
     
 class c(a):
     def said(self):
-        print("c is speaking") 
-c1=c()
-c1.speak()
+        print("c is sp
 c1.tell()
 c1.said()               
